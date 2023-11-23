@@ -1,6 +1,6 @@
-# foodfast
+# Mindwell
 
-An app to order food in a Resturant
+An app to get help with the anxiety
 
 ## Getting Started
 
